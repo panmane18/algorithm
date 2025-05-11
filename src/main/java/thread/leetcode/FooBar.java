@@ -1,4 +1,7 @@
 package thread.leetcode;
+
+import java.util.concurrent.Semaphore;
+
 //https://leetcode.com/problems/print-foobar-alternately/description/?envType=problem-list-v2&envId=concurrency
 class FooBar {
     private int n;
