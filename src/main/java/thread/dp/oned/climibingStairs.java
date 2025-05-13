@@ -1,4 +1,4 @@
-package thread.dp.fibonacci;
+package thread.dp.oned;
 
 class climibingStairs {
   public int climbStairs(int n) {

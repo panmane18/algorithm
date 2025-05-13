@@ -1,4 +1,4 @@
-package thread.dp.fibonacci;
+package thread.dp.oned;
 
 class FrogJumpWithK {
   public int frogJump(int[] heights, int k) {

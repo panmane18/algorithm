@@ -1,4 +1,4 @@
-package thread.dp.fibonacci;
+package thread.dp.oned;
 
 class MaxSumWithNonAdjacent {
   public int nonAdjacent(int[] nums) {

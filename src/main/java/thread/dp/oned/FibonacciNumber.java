@@ -1,4 +1,4 @@
-package thread.dp.fibonacci;
+package thread.dp.oned;
 
 import java.util.Arrays;
 
