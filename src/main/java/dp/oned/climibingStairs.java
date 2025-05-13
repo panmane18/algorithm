@@ -1,4 +1,4 @@
-package thread.dp.oned;
+package dp.oned;
 
 class climibingStairs {
   public int climbStairs(int n) {

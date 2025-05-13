@@ -1,4 +1,4 @@
-package thread.dp.twod;
+package dp.twod;
 
 import java.util.Arrays;
 

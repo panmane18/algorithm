@@ -1,4 +1,4 @@
-package thread.dp.oned;
+package dp.oned;
 
 import java.util.Arrays;
 

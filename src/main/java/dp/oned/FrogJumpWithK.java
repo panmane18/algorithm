@@ -1,4 +1,4 @@
-package thread.dp.oned;
+package dp.oned;
 
 class FrogJumpWithK {
   public int frogJump(int[] heights, int k) {

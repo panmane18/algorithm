@@ -1,4 +1,4 @@
-package thread.dp.oned;
+package dp.oned;
 
 class MaxSumWithNonAdjacent {
   public int nonAdjacent(int[] nums) {
